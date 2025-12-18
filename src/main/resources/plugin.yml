@@ -1,0 +1,9 @@
+name: CommandWhiteList
+main: org.kanelucky.CommandWhiteList
+version: "1.0.0"
+api: "2.0.0"
+authors: ["Kanelucky"]
+description: You decide what commands players can use or tab complete on your server!
+permissions:
+  commandwhitelist.bypass:
+    default: false

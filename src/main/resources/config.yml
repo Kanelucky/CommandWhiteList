@@ -1,0 +1,7 @@
+opByPass: true
+commands:
+  - ver
+  - version
+  - plugins
+  - help
+message: "You do not have permission to use this command!"
