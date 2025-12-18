@@ -2,3 +2,13 @@
 
 # CommandWhiteList
 You decide what commands players can use or tab complete on your server!
+# Configuration (config.yml)
+```yml
+opByPass: true
+commands:
+  - ver
+  - version
+  - plugins
+  - help
+message: "You do not have permission to use this command!"
+```
